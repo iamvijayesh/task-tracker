@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Task Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="app">
+    <div class="header">
+      <h1>Task Tracker</h1>
+      <p>Manage your daily goals with ease.</p>
+    </div>
+
+    <form id="taskForm" class="input-area">
+      <input
+        type="text"
+        id="taskInput"
+        placeholder="What needs to be done?"
+        autocomplete="off"
+      />
+      <button type="submit">+</button>
+    </form>
+
+    <div id="taskContainer" class="task-container"></div>
+
+    <div class="footer">
+      <span id="totalTasks">0 Tasks</span>
+      <span id="completedTasks">0 Completed</span>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
