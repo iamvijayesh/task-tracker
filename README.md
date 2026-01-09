@@ -25,4 +25,7 @@ task-tracker/
 -index.html (Application layout)
 -style.css (Styling)
 -script.js (Application logic)
--README.md
+
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/cb806e13-66b2-4845-a753-d04904f3e968" />
+
+
