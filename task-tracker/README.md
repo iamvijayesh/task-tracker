@@ -22,8 +22,8 @@ The project focuses on clean frontend implementation, basic state management, an
 ## Project Structure
 
 task-tracker/
-├── index.html (Application layout)
-├── style.css (Styling)
-├── script.js (Application logic)
-└── README.md
+-index.html (Application layout)
+-style.css (Styling)
+-script.js (Application logic)
+-README.md
 
